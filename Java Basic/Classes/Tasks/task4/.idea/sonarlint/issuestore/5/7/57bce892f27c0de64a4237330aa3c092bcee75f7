@@ -1,0 +1,13 @@
+
+r
+java:S1104"UMake container a static final constant or non-public and provide accessors if needed.(Áÿ‚É8¾›ÍÔ›1
+L
+java:S1444"/Make this "public static container" field final(Áÿ‚É8¾›ÍÔ›1
+H
+java:S3010"&Remove this assignment of "container".(Ö«²ûùÿÿÿÿ8À›ÍÔ›1
+F
+java:S2386"$Make member "container" "protected".(Ö«²ûùÿÿÿÿ8Á›ÍÔ›1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(æÕ á8ßÎÔ›1
+^
+java:S1126!"AReplace this if-then-else statement by a single return statement.(ñı–Ó8òûÎÔ›1

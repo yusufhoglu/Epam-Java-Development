@@ -1,0 +1,33 @@
+
+n	java:S116'"MRename this field "XX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÈÐÈøÿÿÿÿ8ÖŒˆˆ™1
+i	java:S116*"MRename this field "YY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‰Ù†8ÖŒˆˆ™1
+o
+java:S3008("MRename this field "ZZ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æç´áþÿÿÿÿ8‰ÁÓˆ™1
+C
+java:S1170'"!Make this final field static too.(ÀÈÐÈøÿÿÿÿ8×Œˆˆ™1
+]	java:S125"<This block of commented-out lines of code should be removed.(‘Ç»¯øÿÿÿÿ8êñ‡™1
+]	java:S125"<This block of commented-out lines of code should be removed.(‡Ñ¤èýÿÿÿÿ8¼¡˜‡™1
+{
+java:S1171+"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8àë‹ˆ™1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(¿Üá 8ÅÓ—ˆ™1
+<
+java:S30101"Remove this assignment of "ZZ".(¸½ƒ¾8ŒÁÓˆ™1
+<
+java:S30104"Remove this assignment of "ZZ".(óÇäõ8ŒÁÓˆ™1
+E
+java:S11723"(Remove this unused method parameter "s".(ÎÆÀŸ8¦¾Ñˆ™1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(›¨ƒå8ÆÓ—ˆ™1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Ööœà8œùÈˆ™1
+R
+java:S2209;"5Change this instance-reference to a static reference.(Ööœà8ŽÁÓˆ™1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(‡•ºøÿÿÿÿ8â†Êˆ™1
+W
+java:S2209="5Change this instance-reference to a static reference.(‡•ºøÿÿÿÿ8ÁÓˆ™1
+Q	java:S125>"<This block of commented-out lines of code should be removed.(²Îô¤
+V	java:S125G"<This block of commented-out lines of code should be removed.(ŠËøËùÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÁÓˆ™1
+H
+java:S1068'"&Remove this unused "XX" private field.(ÀÈÐÈøÿÿÿÿ8ÝŒˆˆ™1
+C
+java:S1068*"&Remove this unused "YY" private field.(­‰Ù†8ÝŒˆˆ™1

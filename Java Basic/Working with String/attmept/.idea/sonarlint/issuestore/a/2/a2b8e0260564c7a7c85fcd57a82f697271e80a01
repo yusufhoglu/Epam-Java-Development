@@ -1,0 +1,15 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "str".(‹ìŞ©
+V	java:S125"<This block of commented-out lines of code should be removed.(†’†³ıÿÿÿÿ
+^
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‹ìŞ©
+V	java:S125	"<This block of commented-out lines of code should be removed.(†’†³ıÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Üô–Ä
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(‰ÎÓåûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ƒáÒ±ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

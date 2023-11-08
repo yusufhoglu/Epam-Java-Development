@@ -1,0 +1,9 @@
+
+>
+java:S3010	"!Remove this assignment of "flag".(ˆ²Üà8‘¶®ç›1
+R
+java:S2209	"5Change this instance-reference to a static reference.(ˆ²Üà8‘¶®ç›1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(üÓÏ€8“¶®ç›1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8áœ¯ç›1

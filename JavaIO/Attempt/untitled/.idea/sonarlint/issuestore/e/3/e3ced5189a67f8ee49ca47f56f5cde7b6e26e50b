@@ -1,0 +1,16 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¾ğ½¸şÿÿÿÿ
+P
+java:S1141("5Extract this nested try block into a separate method.(íòåØùÿÿÿÿ
+g
+java:S2259 "LA "NullPointerException" could be thrown; "listFilesToJar" is nullable here.(³™¨Êÿÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ûäğ†ıÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘”§
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ûäğ†ıÿÿÿÿ
+E	java:S106/"+Replace this use of System.err by a logger.(×²…¼úÿÿÿÿ
+@	java:S1063"+Replace this use of System.err by a logger.(¶—ßí
+@	java:S1065"+Replace this use of System.err by a logger.(Úíô£

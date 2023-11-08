@@ -1,0 +1,11 @@
+
+d
+java:S3973 "HUse indentation to denote the code conditionally executed by this "for".(é˜Â|8†åüı›1
+>
+java:S1116"Remove this empty statement.(ƒª¾óÿÿÿÿÿ8Šåüı›1
+>
+java:S3010	"!Remove this assignment of "flag".(ˆ²Üà8Šåüı›1
+R
+java:S2209	"5Change this instance-reference to a static reference.(ˆ²Üà8Šåüı›1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8åüı›1

@@ -1,0 +1,10 @@
+
+o
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.(‘ïùàøÿÿÿÿ8ÀÇó”š1
+I
+java:S1444"'Make this "public static b" field final(‘ïùàøÿÿÿÿ8­ÍÛ•š1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎË×œûÿÿÿÿ8•ıš1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÏÂ8–ıš1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÎË×œûÿÿÿÿ8³ÍÛ•š1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ı³ÓÆ8™ıš1

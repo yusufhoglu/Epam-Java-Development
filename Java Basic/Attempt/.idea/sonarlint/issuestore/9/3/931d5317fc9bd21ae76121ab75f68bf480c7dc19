@@ -1,0 +1,27 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ê¼ĞÌûÿÿÿÿ8Ş’œ‹¸1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†áÆö
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8…Å´¹·1
+L	java:S106"+Replace this use of System.out by a logger.(¸«È®üÿÿÿÿ8½×³¹·1
+L	java:S106
+"+Replace this use of System.out by a logger.(½Ğ®¹ûÿÿÿÿ8†Å´¹·1
+X
+java:S1854"6Remove this useless assignment to local variable "b1".(ã¿ÀÂşÿÿÿÿ8Ã ş¸·1
+W
+java:S1854"5Remove this useless assignment to local variable "b".(µ¨Ñ¥ıÿÿÿÿ8Ã ş¸·1
+L	java:S106"+Replace this use of System.out by a logger.(’œÄ§ÿÿÿÿÿ8™µ¹·1
+C
+java:S2440"!Remove this instantiation of "B".(µ¨Ñ¥ıÿÿÿÿ8–öş¸·1
+H
+java:S1481"&Remove this unused "b" local variable.(µ¨Ñ¥ıÿÿÿÿ8Ë ş¸·1
+C
+java:S2440"!Remove this instantiation of "B".(ã¿ÀÂşÿÿÿÿ8–öş¸·1
+I
+java:S1481"'Remove this unused "b1" local variable.(ã¿ÀÂşÿÿÿÿ8Ì ş¸·1
+F	java:S106"+Replace this use of System.out by a logger.(à«¿,8àØ†¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ç‘î¬ÿÿÿÿÿ8¿  †¸1
+O
+java:S1172"2Remove these unused method parameters "s1", "str".(İş Õ8ßØ†¸1
+L	java:S106"+Replace this use of System.out by a logger.(²Ùóúÿÿÿÿ8àÅå”¸1

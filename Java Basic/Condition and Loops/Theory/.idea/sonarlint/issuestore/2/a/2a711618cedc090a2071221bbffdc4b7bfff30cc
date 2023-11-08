@@ -1,0 +1,10 @@
+
+b
+java:S2184H"ECast one of the operands of this subtraction operation to a "double".(ÎŽ×ï8«­±»—1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÂÒü§8´­±»—1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(õÂËÐûÿÿÿÿ8¸­±»—1
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(õÂËÐûÿÿÿÿ8¸­±»—1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ýø„†8¸­±»—1
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(âž¡„ûÿÿÿÿ8¸­±»—1
+Y
+java:S1128"7Remove this unused import 'javax.script.ScriptContext'.(íˆêëùÿÿÿÿ8¸­±»—1
